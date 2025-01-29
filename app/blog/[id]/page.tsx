@@ -1,3 +1,4 @@
+/*
 'use client'
 import Layout from "@/components/layout/Layout"
 import data from "@/util/blog.json"
@@ -37,3 +38,4 @@ export default function BlogDetails() {
         </>
     )
 }
+*/
