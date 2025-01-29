@@ -13,6 +13,7 @@
     "react-dom": "^18.2.0",
     "react-fast-marquee": "^1.6.5",
     "react-modal-video": "^2.0.2",
+    "react-perfect-scrollbar": "^1.5.8",
     "swiper": "^11.2.1",
     "wowjs": "^1.1.3"
   },
